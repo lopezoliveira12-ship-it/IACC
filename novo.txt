@@ -1,4 +1,4 @@
 Lorenzo da silveira webber
 idade:19
 cidade:torres
-time:Gremio
+time:internacional
